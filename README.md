@@ -9,7 +9,7 @@
 8. Matplotlib-ERPNext Integration
 9. A flutter app to share photo and messages with ERPNext
 10. Theming ERPNext
-11. SSL installation with auto renewal
+11. SSL installation with auto renewal on an ERPNext instance
 12. Email/Matrix notification to system admin on new doctype creation.
 13. Link call log with Leads by a child table in Lead
 14. Dynamic website infront of ERPNext
@@ -38,8 +38,8 @@
 37. Web form for task updates
 38. Web form for suppliers to view quotation
 39. Web form for customers to view Sales Order
-40. Custom print format with branding :- Bills, qutations, proposals
-41. WhatsApp Matrix integration without T&C breaching(a leagal-technical hack)
+40. Custom print format with branding :- Bills, qutations etc
+41. WhatsApp Matrix integration without T&C breach(a leagal-technical hack)
 42. Attach pdfs to document on submit
 43. GPG Key signing intregation - for Document signing
 44. GPG Key signing intregation - for Logging in
