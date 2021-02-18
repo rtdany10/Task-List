@@ -1,4 +1,5 @@
 # Tasks
+Almost all tasks requires installation of ERPNext and understanding its basic working. And these tasks are to be implemented on ERPNext. Email me in case you need any clarification.
 1. SSO implementation for Askbot Using Frappe
 2. SSO implementation for Matrix Using Frappe
 3. SSO implementation for Loomio Using Frappe
